@@ -28,4 +28,9 @@ We don’t believe in shady upsells, lock-in tactics, or throwing features behin
 4. Support that listens, not just replies
 5. Where you control your data (your content, your rules)
 
-
+## Our Promise
+- We’ll never stop maintaining what we build.
+- We’ll never treat users like ticket numbers.
+- And we’ll always measure success by your success.
+**That’s not just branding, that’s how we operate.**
+[More About RhapsodyPlugins](https://rhapsodyplugins.com/about/)
