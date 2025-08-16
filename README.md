@@ -37,4 +37,4 @@ We don’t believe in shady upsells, lock-in tactics, or throwing features behin
 
 [More About RhapsodyPlugins](https://rhapsodyplugins.com/about/)
 
-<a href="https://rhapsodyplugins.com/about/">More About RhapsodyPlugins</a>
+
